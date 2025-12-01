@@ -32,7 +32,8 @@
 </div>
 
 ### Блок-схема
-<img width="2179" height="1752" alt="lab_6per" src="https://github.com/user-attachments/assets/55ddd482-cb38-4df6-a44c-f72f654fd40f" />
+
+<img width="2179" height="1842" alt="prqw" src="https://github.com/user-attachments/assets/274ee4b6-4113-44dc-9b8d-92b9e304084f" />
 
 
 
@@ -134,7 +135,8 @@ int main() {
 ### Блок-схема
 
 
-<img width="882" height="692" alt="lab_3_dzper" src="https://github.com/user-attachments/assets/1766591e-a117-496e-8b8d-d97f12e963ef" />
+<img width="882" height="692" alt="qtda" src="https://github.com/user-attachments/assets/3d39d2b8-e949-49a7-8ee3-3ac0f9005e2d" />
+
 
 
 
