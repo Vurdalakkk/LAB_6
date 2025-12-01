@@ -187,7 +187,9 @@ int main() {
 ## 3. Результаты работы программы
 
 
-<img width="882" height="692" alt="3123d" src="https://github.com/user-attachments/assets/aae56531-cac1-4bf3-b466-0957a35d9452" />
+<img width="979" height="511" alt="image" src="https://github.com/user-attachments/assets/6342452b-44fd-4c3d-a976-eaaa8f704dbd" />
+
+<img width="977" height="511" alt="image" src="https://github.com/user-attachments/assets/afd9d797-5bfb-43ac-b4e8-e3d58817a051" />
 
 
 
