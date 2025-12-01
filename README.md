@@ -136,7 +136,8 @@ int main() {
 ### Блок-схема
 
 
-<img width="882" height="692" alt="qtda" src="https://github.com/user-attachments/assets/3d39d2b8-e949-49a7-8ee3-3ac0f9005e2d" />
+<img width="882" height="692" alt="3123d" src="https://github.com/user-attachments/assets/11084037-130e-4710-9446-dda0b9675107" />
+
 
 
 
