@@ -33,7 +33,8 @@
 
 ### Блок-схема
 
-<img width="2179" height="1842" alt="prqw" src="https://github.com/user-attachments/assets/274ee4b6-4113-44dc-9b8d-92b9e304084f" />
+
+<img width="2179" height="1842" alt="prqt2" src="https://github.com/user-attachments/assets/754cffaf-23fb-4942-8a10-db0398468d44" />
 
 
 
